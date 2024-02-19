@@ -1,0 +1,19 @@
+# A_DATEN_CODIEREN_NUM
+
+## Teilaufgaben
+
+- [1](./A_DATEN_CODIEREN_NUM/1.md)
+- [2](./A_DATEN_CODIEREN_NUM/2.md)
+- [3](./A_DATEN_CODIEREN_NUM/3.md)
+- [4](./A_DATEN_CODIEREN_NUM/4.md)
+- [5](./A_DATEN_CODIEREN_NUM/5.md)
+- [6](./A_DATEN_CODIEREN_NUM/6.md)
+- [7](./A_DATEN_CODIEREN_NUM/7.md)
+- [8](./A_DATEN_CODIEREN_NUM/8.md)
+- [9](./A_DATEN_CODIEREN_NUM/9.md)
+- [10](./A_DATEN_CODIEREN_NUM/10.md)
+- [11](./A_DATEN_CODIEREN_NUM/11.md)
+- [12](./A_DATEN_CODIEREN_NUM/12.md)
+- [13](./A_DATEN_CODIEREN_NUM/13.md)
+- [14](./A_DATEN_CODIEREN_NUM/14.md)
+- [Zusatzaufgabe](./A_DATEN_CODIEREN_NUM/Zusatzaufgabe.md)
